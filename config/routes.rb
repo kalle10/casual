@@ -1,6 +1,6 @@
 Casual::Application.routes.draw do
   get "contact/index"
-  get "blog/index"
+  get "service/index"
   get "about/index"
   get "home/index"
   post "contact/contact"
