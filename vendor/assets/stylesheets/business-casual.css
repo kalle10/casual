@@ -148,11 +148,14 @@ footer p {
 }
 
 .nav>li>a {
-  padding: 35px;
+  margin-left: 150px;
+  text-align: center;
+
 }
 
 .navbar-nav>li>a {
   line-height: normal;
+
 }
 
 .navbar-nav {
@@ -161,7 +164,9 @@ footer p {
   display: table;
   table-layout: fixed;
   font-size: 1.25em;
+  
 }
+
 
 }
 
