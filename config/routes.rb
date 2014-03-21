@@ -1,4 +1,5 @@
 Casual::Application.routes.draw do
+  root 'home#index'
   get "contact/index"
   get "service/index"
   get "about/index"
